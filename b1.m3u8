@@ -8,7 +8,15 @@ https://ton.bassamnetflix2.workers.dev/live/ch1_240.m3u8
 https://wo.cma.footballii.ir/hls2/b1_low.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-https://ton.bassamnetflix2.workers.dev/live/ch1_480.m3u8
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-referer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium728/mono.m3u8
+
+
+
+
+
 
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
 https://ton.bassamnetflix2.workers.dev/live/ch1_720.m3u8
