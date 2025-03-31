@@ -2,8 +2,5 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-referer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium728/mono.m3u8
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio3",NAME="default",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="http://anisfm.xyz/1"
