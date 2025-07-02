@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="external-audio",NAME="تعليق عربي",DEFAULT=YES,AUTOSELECT=YES,URI="audio-ar.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="external-audio",NAME="تعليق عربي",DEFAULT=YES,AUTOSELECT=YES,URI="http://cdn.anisfm.pp.ua:8080/listen/anis_fm/1#"
 http://cdn.anisfm.pp.ua:8080/listen/anis_fm/1#
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,CODECS="avc1.4d401f",AUDIO="external-audio"
 https://bsports.glitch.me/euro/EuroSport1/index.m3u8
