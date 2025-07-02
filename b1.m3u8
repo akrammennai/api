@@ -1,5 +1,7 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10,
-http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016907&extension=m3u8&play_token=IUyVceMkpw
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="external-audio",NAME="تعليق عربي",DEFAULT=YES,AUTOSELECT=YES,URI="audio-ar.m3u8"
+https://cdn.anisfm.pp.ua/listen/anis_fm/1M
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,CODECS="avc1.4d401f",AUDIO="external-audio"
+video-only.m3u8
+https://bsports.glitch.me/euro/EuroSport1/index.m3u8
